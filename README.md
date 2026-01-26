@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
