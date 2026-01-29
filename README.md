@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -89,13 +90,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+## String
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
