@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -135,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
