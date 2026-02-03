@@ -4,6 +4,9 @@ public:
         if (n == 0) {
             return b;
         }
+        if (n == 1) {
+            return a;
+        }
         return fibHelp(n - 1, a, a + b);
     }
     int fib(int n) { return fibHelp(n, 1, 1); }
