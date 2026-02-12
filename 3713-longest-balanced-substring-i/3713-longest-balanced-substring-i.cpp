@@ -1,25 +1,31 @@
 class Solution {
 public:
     int longestBalanced(string s) {
-        int n = s.size();
-        int ans = 0;
-        for(int i=0; i< n; i++){
-            vector<int> freq(26,0);
-            for(int j=i; j< n; j++){
-                freq[s[j] - 'a']++;
-
-                int minFreq = INT_MAX, maxFreq=0;
-                for(int f : freq){
-                    if(f > 0){
-                        minFreq = min(minFreq, f);
-                        maxFreq = max(maxFreq, f);
-                    }
-                }
-                if(minFreq == maxFreq){
-                    ans = max(ans, j-i+1);
-                }
-            }
+        map<char, int> wordcount;
+        char word;
+        for (char x : s) {
+            wordcount[x]++;
+            cout << wordcount[x];
         }
+        vector<int> vt;
+        for(auto element : wordcount){
+            vt.push_back(element.second);
+            cout<<vt[element];
+        }
+        // sort(wordcount.begin(), wordcount.end());
+        // int n= wordcount.size();
+        // int ans= INT_MIN;
+        // for(i= n-1; i>=0; i--){
+        //     int currans = wordcount[i];
+        //     if(wordcount[i] == wordcount[i-1]){
+        //         currans *= wordcount[i-1];
+        //         if(ans < currans){
+        //             ans = currans;
+        //         }
+
+        //     }
+        //     else currans = 1;
+        // }
         return ans;
     }
 };
