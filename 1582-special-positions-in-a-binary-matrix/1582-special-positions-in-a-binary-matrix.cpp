@@ -4,21 +4,25 @@ public:
         int n = mat.size();
         int m = mat[0].size();
         int count  =0 ;
-        for(int i = 0; i< n ; i++){
-            for(int j = 0; j< m; j++){
-                if(mat[i][j] == 1 ) {
-                    int x=0,y=0;
-                    for (int k = 0; k < m; k++) {
-                        if (mat[i][k] == 1) {
-                            x++;
-                        }
-                    }
-                    for (int k = 0; k < n; k++) {
-                        if (mat[k][j] == 1) {
-                            y++;
-                        }
-                    }
-                    if (x == 1 && y == 1) {
+        vector<int> rows(n), cols(m);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++){
+                if (mat[i][j] == 1) {
+                    rows[i]++;
+                }
+            }
+        }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++){
+                if (mat[j][i] == 1) {
+                    cols[i]++;
+                }
+            }
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++){
+                if (mat[i][j] == 1) {
+                    if (rows[i] == 1 && cols[j] == 1) {
                         count++;
                     }
                 }
