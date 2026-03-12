@@ -1,7 +1,12 @@
 class Solution {
 public:
     bool isAlienSorted(vector<string>& words, string order) {
-        
+        auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
         map<char, int> mp;
 
         for (int i = 0; i < 26; i++) {
