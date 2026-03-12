@@ -13,7 +13,7 @@ public:
             string first = words[i];
             string second = words[i + 1];
             int len = min(first.length(), second.length());
-            bool foundDiff = false;
+            bool check = false;
             for (int k = 0; k < len; k++) {
 
                 if (first[k] != second[k]) {
@@ -21,12 +21,12 @@ public:
                     if (mp[first[k]] > mp[second[k]]){
                         return false;
                     }
-                    foundDiff = true;
+                    check = true;
                     break;
                 }
             }
 
-            if (!foundDiff && first.length() > second.length())
+            if (!check && first.length() > second.length())
                 return false;
         }
 
