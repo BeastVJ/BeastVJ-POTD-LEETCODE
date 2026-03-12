@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3861-minimum-capacity-box](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
