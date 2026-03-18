@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         vector<int> run(n);
         run[0] = nums[0];
-        for(int i = 0; i< n; i++){
+        for(int i = 1; i< n; i++){
             run[i] = nums[i] + run[i-1];
         }
 
