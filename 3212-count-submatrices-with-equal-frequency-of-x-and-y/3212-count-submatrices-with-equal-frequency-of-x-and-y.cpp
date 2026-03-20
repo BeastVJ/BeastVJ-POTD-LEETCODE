@@ -1,23 +1,39 @@
 class Solution {
 public:
     int numberOfSubmatrices(vector<vector<char>>& grid) {
-        int rows = grid.size(), cols = grid[0].size();
-        vector<int> sumX(cols, 0);
-        vector<int> sumY(cols, 0);
-        int res = 0;
 
-        for (int i = 0; i < rows; i++) {
-            int rx = 0, ry = 0;
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> cumsumX(m, vector<int>(n,0));
+        vector<vector<int>> cumsumY(m, vector<int>(n,0));
+        int count = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
 
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 'X') rx++;
-                else if (grid[i][j] == 'Y') ry++;
-                sumX[j] += rx;
-                sumY[j] += ry;
-                if (sumX[j] > 0 && sumX[j] == sumY[j]) res++;
+                cumsumX[i][j] = (grid[i][j] == 'X');
+                if (i - 1 >= 0)
+                    cumsumX[i][j] += grid[i - 1][j];
+
+                if (j - 1 >= 0) {
+                    cumsumX[i][j] += grid[i][j - 1];
+                }
+
+                if (i - 1 >= 0 && j - 1 >= 0) {
+                    cumsumX[i][j] += grid[i - 1][j - 1];
+                    count++;
+                }
+
+                cumsumY[i][j] = (grid[i][j] == 'Y');
+                if (i - 1 >= 0)
+                    cumsumY[i][j] += grid[i - 1][j];
+                if (j - 1 >= 0)
+                    cumsumY[i][j] += grid[i][j - 1];
+                if (i - 1 >= 0 && j - 1 >= 0)
+                    cumsumY[i][j] += grid[i - 1][j - 1];
+                count++;
             }
         }
 
-        return res;
+        return count - 5;
     }
 };
