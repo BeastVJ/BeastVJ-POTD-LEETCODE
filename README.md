@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
