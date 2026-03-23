@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // int n;
+    int n;
     void rotate(vector<vector<int>>& mat, int n) {
 
         // transpose
@@ -18,7 +18,7 @@ public:
 
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
         int n = mat.size();
-        for (int c = 1; c <= 4; c++) {
+        for (int c = 0; c < 4; c++) {
             bool equal = true;
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
@@ -34,6 +34,7 @@ public:
             if (equal)
                 return true;
             rotate(mat, n);
+
         }
 
         return false;
