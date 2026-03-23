@@ -12,9 +12,9 @@ public:
             for(int j = startCol; j <= endCol; j++){
                 swap(grid[i][j], grid[endRow][j]);
             }
+            startRow++;
             endRow--;
         }
         return grid;
-        
     }
 };
