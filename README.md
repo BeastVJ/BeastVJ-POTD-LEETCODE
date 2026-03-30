@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sliding Window
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
