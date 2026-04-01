@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
