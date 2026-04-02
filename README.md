@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
