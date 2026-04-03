@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3861-minimum-capacity-box](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
