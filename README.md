@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
