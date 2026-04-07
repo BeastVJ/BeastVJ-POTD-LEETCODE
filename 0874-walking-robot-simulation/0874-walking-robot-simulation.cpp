@@ -1,44 +1,37 @@
 class Solution {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        set<pair<int,int>> blocked;
-        for (auto &o : obstacles) {
-            blocked.insert({o[0], o[1]});
+        unordered_set<string> st;
+
+        for (vector<int>& obs : obstacles) {
+            string key = to_string(obs[0]) + "_" + to_string(obs[1]);
+            st.insert(key);
         }
 
-        vector<pair<int,int>> directions = {
-            {0, 1}, {1, 0}, {0, -1}, {-1, 0}
-        };
+        int x = 0;
+        int y = 0;
+        int maxD = 0;
+        pair<int, int> dir = {0, 1};
+        for (int i = 0; i < commands.size(); i++) {
+            if (commands[i] == -2) {
+                dir = {-dir.second, dir.first}; // ye hai left turn ke liye
+            } else if (commands[i] == -1) {
+                dir = {dir.second, -dir.first}; // ye hai right turn ke liye
+            } else {
+                for (int step = 0; step < commands[i]; step++) {
+                    int newX = x + dir.first;
+                    int newY = y + dir.second;
 
-        int x = 0, y = 0;
-        int dir = 0; 
-        int maxDist = 0;
-
-        for (int cmd : commands) {
-            if (cmd == -1) {
-                
-                dir = (dir + 1) % 4;
-            } 
-            else if (cmd == -2) {
-                dir = (dir + 3) % 4;
-            } 
-            else {
-                // move forward step by step
-                while (cmd--) {
-                    int nx = x + directions[dir].first;
-                    int ny = y + directions[dir].second;
-
-                    // stop if obstacle is ahead
-                    if (blocked.count({nx, ny})) break;
-
-                    x = nx;
-                    y = ny;
-
-                    maxDist = max(maxDist, x * x + y * y);
+                    string newKey = to_string(newX) + "_" + to_string(newY);
+                    if (st.find(newKey) != st.end()) {
+                        break;
+                    }
+                    x = newX;
+                    y = newY;
                 }
             }
+            maxD = max(maxD, x * x + y * y);
         }
-
-        return maxDist;
+        return maxD;
     }
 };
