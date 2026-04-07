@@ -22,7 +22,7 @@ public:
         int maxTime = *max_element(begin(workerTimes), end(workerTimes));
         ll l = 1;
         ll r = (ll)maxTime * mountainHeight * (mountainHeight+1)/2;
-        int result  = 0;
+        ll result  = 0;
 
         // khandani template of binary search
         while(l <= r){
