@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3861-minimum-capacity-box](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
