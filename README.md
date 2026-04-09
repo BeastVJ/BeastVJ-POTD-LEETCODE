@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
