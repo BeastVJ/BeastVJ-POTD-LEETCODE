@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Vijay Singh Bisht
+    //11:50 at 204
     int minimumDistance(vector<int>& nums) {
 
         int min = INT_MAX;
