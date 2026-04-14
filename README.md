@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2463-minimum-total-distance-traveled](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2463-minimum-total-distance-traveled](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0338-counting-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
