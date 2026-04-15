@@ -1,6 +1,9 @@
 class Solution {
 public:
+    // Vijay Singh Bisht
+    // 6:10 at library
     int closestTarget(vector<string>& words, string target, int startIndex) {
+
         int n = words.size();
         int ans = INT_MAX;
         
