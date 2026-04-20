@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // vijay singh bisht
+    // 11:30 at 204
     int maxDistance(vector<int>& colors) {
         int max = INT_MIN;
         int j = 1;
@@ -12,7 +14,6 @@ public:
                         max = currmax;
                     }
                 }
-                // j++;
             }
         }
         return max;
