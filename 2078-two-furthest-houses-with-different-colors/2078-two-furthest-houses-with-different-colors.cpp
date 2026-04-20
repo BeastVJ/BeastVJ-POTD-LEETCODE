@@ -3,19 +3,20 @@ public:
     // vijay singh bisht
     // 11:30 at 204
     int maxDistance(vector<int>& colors) {
-        int max = INT_MIN;
-        int j = 1;
-        for (int i = 0; i < colors.size(); i++) {
-            for (int j = i + 1; j < colors.size(); j++) {
-                int currmax;
-                if (colors[i] != colors[j]) {
-                    currmax = abs(i - j);
-                    if (currmax > max) {
-                        max = currmax;
-                    }
-                }
+        int n = colors.size();
+        int last = colors[n-1];
+        int i = 0;
+        int max;
+        while(i <= n-2){
+            if(colors[i] != last){
+                max = abs( (n-1) - i);
+                return max;
+            }
+            else{
+                i++;
             }
         }
+        
         return max;
     }
 };
