@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -304,4 +305,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
