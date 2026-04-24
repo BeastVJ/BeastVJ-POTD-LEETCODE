@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // vijay singh bisht
+    // 4:38 at library
     int subarraySum(vector<int>& nums, int k) {
         
         unordered_map<int,int> mp;
