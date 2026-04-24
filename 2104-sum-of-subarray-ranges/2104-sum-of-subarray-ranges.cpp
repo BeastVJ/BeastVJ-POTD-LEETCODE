@@ -10,9 +10,9 @@ public:
                 mini = min(mini, nums[j]);
                 maxi = max(maxi, nums[j]);
 
-                sum += (mini - maxi);
+                sum += (maxi - mini);
             }
         }
-        return abs(sum);
+        return sum;
     }
 };
