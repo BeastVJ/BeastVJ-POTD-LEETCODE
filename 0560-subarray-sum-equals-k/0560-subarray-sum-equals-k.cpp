@@ -3,9 +3,7 @@ public:
     // vijay singh bisht
     // 4:38 at library
     int subarraySum(vector<int>& nums, int k) {
-        
         unordered_map<int,int> mp;
-        
         int result = 0;
         int cumSum = 0;
         mp.insert({0,1});
