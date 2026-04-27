@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -337,11 +339,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Monotonic Stack
@@ -352,5 +356,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
