@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2906-construct-product-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2463-minimum-total-distance-traveled](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
