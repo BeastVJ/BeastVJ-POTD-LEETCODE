@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
