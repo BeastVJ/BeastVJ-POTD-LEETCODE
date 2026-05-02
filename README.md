@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
