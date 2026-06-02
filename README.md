@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 ## Design
