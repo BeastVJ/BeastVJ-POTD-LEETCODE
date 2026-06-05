@@ -8,14 +8,14 @@ public:
             return a-b;
         }
         if(token == "*"){
-            return a*b;
+            return long(a)*long(b);
         }
         if(token == "/"){
             return a/b;
         }
         return -1;
     }
-    
+
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
 
