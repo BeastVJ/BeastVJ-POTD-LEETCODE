@@ -8,21 +8,20 @@ public:
         for(char ch = 'z'; ch >= 'a'; ch--){
             mp[ch] = 'z'- ch;
         }
-        string fans;
+        string result;
         for (string word : words) {
             int totalWeight = 0;
-
             for (char ch : word) {
                 totalWeight += weights[ch - 'a'];
             }
             // cout << totalWeight << endl;
-            int ans = totalWeight % 26;
-            // mp.find(ans)
-            char chu = 'z' - ans;
-            fans += chu;
-            cout<<chu;
+            // int ans = totalWeight % 26;
+            // char chu = 'z' - ans;
+            // fans += chu;
+            // cout<<chu;
+            result += 'z' - (totalWeight%26);
         }
 
-        return fans;
+        return result;
     }
 };
