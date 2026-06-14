@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 ## Design
 | Problem Name | Difficulty |
