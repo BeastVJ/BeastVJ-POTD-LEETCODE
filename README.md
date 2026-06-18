@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
