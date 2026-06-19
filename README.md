@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1895-largest-magic-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
