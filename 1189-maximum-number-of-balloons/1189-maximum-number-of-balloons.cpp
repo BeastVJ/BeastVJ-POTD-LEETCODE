@@ -1,13 +1,18 @@
 class Solution {
 public:
-    int maxNumberOfBalloons(string t) {
-        int f[5] = {0};
-        string s = "balon";
+    int maxNumberOfBalloons(string text) {
+        vector<int> freq(26, 0);
 
-        for (uint32_t ch : t)
-            for (int i = 0; i < 5; i++)
-                f[i] += !(ch ^ s[i]);
+        for (char ch : text) {
+            freq[ch - 'a']++;
+        }
 
-        return min({f[0], f[1], f[2] >> 1, f[3] >> 1, f[4]});
+        return min({
+            freq['b' - 'a'],
+            freq['a' - 'a'],
+            freq['l' - 'a'] / 2,
+            freq['o' - 'a'] / 2,
+            freq['n' - 'a']
+        });
     }
 };
