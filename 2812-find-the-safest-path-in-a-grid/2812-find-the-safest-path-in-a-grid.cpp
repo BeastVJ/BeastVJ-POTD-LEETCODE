@@ -42,20 +42,17 @@ public:
             }
         }
 
-        // Binary search for maximum safeness factor
         int start = 0;
         int end = 0;
         int res = -1;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                // Set end as the maximum safeness factor possible
                 end = max(end, grid[i][j]);
             }
         }
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (isValidSafeness(grid, mid)) {
-                // Store valid safeness and search for larger ones
                 res = mid;
                 start = mid + 1;
             } else {
@@ -68,20 +65,16 @@ public:
 
 private:
 
-    // Directions for moving to neighboring cells: right, left, down, up
     vector<vector<int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
-    // Check if a given cell lies within the grid
     bool isValidCell(vector<vector<int>>& grid, int i, int j) {
         int n = grid.size();
         return i >= 0 && j >= 0 && i < n && j < n;
     }
 
-    // Check if a path exists with given minimum safeness value
     bool isValidSafeness(vector<vector<int>>& grid, int minSafeness) {
         int n = grid.size();
 
-        // Check if the source and destination cells satisfy minimum safeness
         if (grid[0][0] < minSafeness || grid[n - 1][n - 1] < minSafeness) {
             return false;
         }
@@ -91,18 +84,15 @@ private:
         traversalQueue.push({0, 0});
         visited[0][0] = true;
 
-        // Breadth-first search to find a valid path
         while (!traversalQueue.empty()) {
             auto curr = traversalQueue.front();
             traversalQueue.pop();
             if (curr.first == n - 1 && curr.second == n - 1) {
-                return true; // Valid path found
+                return true; 
             }
-            // Check neighboring cells
             for (auto& d : dir) {
                 int di = curr.first + d[0];
                 int dj = curr.second + d[1];
-                // Check if the neighboring cell is valid and unvisited
                 if (isValidCell(grid, di, dj) && !visited[di][dj] &&
                     grid[di][dj] >= minSafeness) {
                     visited[di][dj] = true;
@@ -111,6 +101,6 @@ private:
             }
         }
 
-        return false; // No valid path found
+        return false; 
     }
 };
