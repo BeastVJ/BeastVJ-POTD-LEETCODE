@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Union-Find
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Monotonic Stack
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## String Matching
