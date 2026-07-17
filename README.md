@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -463,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -476,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,7 +585,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
