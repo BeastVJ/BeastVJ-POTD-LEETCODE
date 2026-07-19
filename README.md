@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
