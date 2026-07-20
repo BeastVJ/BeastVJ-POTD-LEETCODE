@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
