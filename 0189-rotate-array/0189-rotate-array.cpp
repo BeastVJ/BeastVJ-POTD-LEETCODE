@@ -1,11 +1,8 @@
 class Solution {
 public:
+    // vijay singh bisht
+    //at midway bhimtal
     void rotate(vector<int>& nums, int k) {
-        
-        // vector<int> nums;
-        // for(auto it: numss){
-        //     nums.push_back(it);
-        // }
 
         k %= nums.size();
 
