@@ -2,9 +2,10 @@ class Solution {
 public:
     // vijay singh bisht
     // at midway bhimtal
+    //brute approach
     void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+        int m = matrix.size(); //row
+        int n = matrix[0].size(); //col
 
         vector<vector<int>> temp = matrix;
 
