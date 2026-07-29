@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3499-maximize-active-section-with-trade-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,4 +635,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
