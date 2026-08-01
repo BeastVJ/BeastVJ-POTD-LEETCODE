@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -644,4 +648,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
