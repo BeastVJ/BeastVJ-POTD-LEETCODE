@@ -3,20 +3,24 @@ public:
     // vijay singh bisht
     // at midway
     int minimumPushes(string word) {
+        vector<int> mp(26, 0);
+
+        for(char &ch : word){
+            mp[ch - 'a']++;
+        }
+
+        sort(begin(mp), end(mp), greater<int>());
+
         int result = 0;
-        unordered_map<int, int> mp;
-        int key = 2;
-        for(char &ch: word){
-            if(key> 9){
-                key = 2;
-            }
 
-            mp[key]++;
-            result += mp[key];
+        for(int i = 0; i< 26; i++){
+            int freq = mp[i];
 
-            key++;
+            int press = i / 8 + 1;
+            result += press * freq;
         }
 
         return result;
+
     }
 };
