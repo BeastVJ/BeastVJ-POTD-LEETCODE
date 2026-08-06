@@ -1,21 +1,25 @@
 class Solution {
 public:
+    // vijay singh bisht
+    // at midway
     int minimumPushes(string word) {
-        vector<int> frequency(26, 0);
+        
+        vector<int> mp(26, 0);
 
-        for (char& c : word) {
-            ++frequency[c - 'a'];
+        for(char &ch: word){
+            mp[ch - 'a']++;
         }
 
-        sort(frequency.rbegin(), frequency.rend());
+        sort(begin(mp), end(mp), greater<int>());
 
-        int totalPushes = 0;
+        int result = 0;
 
-        for (int i = 0; i < 26; ++i) {
-            if (frequency[i] == 0) break;
-            totalPushes += (i / 8 + 1) * frequency[i];
+        for(int i = 0; i< 26; i++){
+            int freq = mp[i];
+            int press = i / 8 + 1;
+            result += press * freq;
         }
 
-        return totalPushes;
+        return result;
     }
 };
