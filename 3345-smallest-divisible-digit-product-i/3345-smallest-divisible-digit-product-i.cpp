@@ -1,22 +1,24 @@
 class Solution {
 public:
     // vijay singh bisht
-    // at midwat
-    int smallestNumber(int n, int t) {
-        // int first = n;        
+    // at midway
+    int findDigitProd(int num) {
+        int prod = 1;
+        while (num) {
+            prod = prod * (num % 10);
+            if (prod == 0)
+                return 0;
 
-        for(int i = n; i<= 100; i++){
-            int product = 1;
-            int curr = i;
-            while(curr > 0){
-                int prod = curr %10;
-                product = prod * product; 
-                curr /= 10;
-            }
-            if(product % t == 0){
-                return i;
+            num /= 10;
+        }
+        return prod;
+    }
+    int smallestNumber(int n, int t) {
+        for (int num = n; num <= n + 10; num++) {
+            if (findDigitProd(num) % t == 0) {
+                return num;
             }
         }
-        return 0;
+        return -1;
     }
 };
