@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
