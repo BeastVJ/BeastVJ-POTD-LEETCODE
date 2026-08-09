@@ -683,9 +683,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
