@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -691,10 +694,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
