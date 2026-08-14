@@ -2,9 +2,7 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         map<char, int> freq;
-
         int i = 0;
-
         int maxL = 0;
         for(int j = 0; j < s.length(); j++){
             freq[s[j]]++;
