@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
