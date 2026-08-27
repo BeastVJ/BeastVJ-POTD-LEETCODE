@@ -1,18 +1,31 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        for (int m = k; m <= s.length(); m++) {
-            string ans = "";
-            for (int i = m; i <= s.length(); i++) {
-                string t = s.substr(i - m, m);
-                if ((ans.empty() || t < ans) && ranges::count(t, '1') == k) {
-                    ans = t;
+        int n = s.length();
+
+        for(int len = k ; len <= n; len++){
+
+            string result = "";
+            for(int start = 0; start <= n - len ; start++){
+                string temp = s.substr(start, len);
+
+                int ones= 0;
+                for(char &ch: temp){
+                    ones += (ch == '1') ? 1 : 0;
+                }
+
+                if(ones == k){
+                    if(result.empty() || temp < result){
+                        result = temp;
+                    }
                 }
             }
-            if (!ans.empty()) {
-                return ans;
+
+            if(!result.empty()){
+                return result;
             }
         }
+
         return "";
     }
 };
