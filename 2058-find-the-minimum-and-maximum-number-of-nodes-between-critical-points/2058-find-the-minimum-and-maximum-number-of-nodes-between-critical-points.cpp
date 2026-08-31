@@ -1,44 +1,28 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> criticalPoints;
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        int position = 0;
-        
-        while (curr != nullptr && curr->next != nullptr) {
-            if (prev != nullptr && curr->next != nullptr) {
-                if ((curr->val > prev->val && curr->val > curr->next->val) || 
-                    (curr->val < prev->val && curr->val < curr->next->val)) {
-                    criticalPoints.push_back(position);
-                }
+        int Min = 100000, i = 1;
+        int c[2] = {0, 0};
+
+        auto prev = head, curr = head->next, nxt = head->next->next;
+
+        auto isCrit = [&]() {
+            auto x = prev->val, y = curr->val, z = nxt->val;
+            return (x < y && y > z) || (x > y && y < z);
+        };
+
+        while (nxt) {
+            if (isCrit()) {
+                if (c[0]) Min = min(Min, i - c[c[1] > 0]);
+                c[c[0] > 0] = i;
             }
-            prev = curr;
-            curr = curr->next;
-            position++;
+
+            prev = curr; curr = nxt;
+            nxt = nxt->next; i++;
         }
-        
-        if (criticalPoints.size() < 2) {
-            return {-1, -1};
-        }
-        
-        int minDistance = INT_MAX;
-        int maxDistance = criticalPoints.back() - criticalPoints.front();
-        
-        for (int i = 1; i < criticalPoints.size(); i++) {
-            minDistance = min(minDistance, criticalPoints[i] - criticalPoints[i - 1]);
-        }
-        
-        return {minDistance, maxDistance};
+
+        if (c[1]) return {Min, c[1] - c[0]};
+
+        return {-1, -1};
     }
 };
