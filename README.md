@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
