@@ -1,23 +1,20 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
+        
+        int minEl = *min_element(begin(nums1), end(nums1));
 
-        int odd = 0;
-        int even = 0;
+        if(minEl % 2 == 1){
+            return true;
+        }
 
-        int minm = *min_element(nums1.begin(), nums1.end());
 
-        for(int x: nums1){
-            if(x % 2 == 0){
-                even++;
-            }else{
-                odd++;
+        for(int &num : nums1){
+            if(num % 2 == 1){
+                return false;
             }
         }
 
-        if(odd == 0 || even == 0) return true;
-        if(minm % 2 == 1) return true;
-
-        return false;
+        return true;
     }
 };
