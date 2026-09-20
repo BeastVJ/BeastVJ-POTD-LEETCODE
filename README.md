@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
