@@ -2,17 +2,16 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         map<int, int> mp;
-        for (auto it : nums) {
-            mp[it]++;
+
+        for (auto x : nums) {
+            mp[x]++;
         }
-        int last;
-        if (!mp.empty()) {
-            auto maxi = max_element(
-                mp.begin(), mp.end(), [](const auto& a, const auto& b) {
-                    return a.second < b.second;
-                });
-            last = maxi->first;
-        }
-        return last;
+
+        auto maxi = max_element(mp.begin(), mp.end(),
+            [](const auto& a, const auto& b) {
+                return a.second < b.second;
+            });
+
+        return maxi->first;
     }
 };
