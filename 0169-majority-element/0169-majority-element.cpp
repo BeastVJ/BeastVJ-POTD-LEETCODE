@@ -7,11 +7,11 @@ public:
         }
         int last;
         if (!mp.empty()) {
-            auto maxValueElement = max_element(
+            auto maxi = max_element(
                 mp.begin(), mp.end(), [](const auto& a, const auto& b) {
                     return a.second < b.second;
                 });
-            last = maxValueElement->first;
+            last = maxi->first;
         }
         return last;
     }
