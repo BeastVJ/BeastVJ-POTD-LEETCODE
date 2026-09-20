@@ -1,10 +1,9 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
         if(s.size() != t.size()) return false;
+        // sort(s.begin(), s.end());
+        // sort(t.begin(), t.end());
         map<char , int> mp1;
         map<char , int> mp2;
         for(auto it: s){
