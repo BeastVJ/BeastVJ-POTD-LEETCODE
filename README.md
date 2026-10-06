@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0396-rotate-function/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0788-rotated-digits/) | Medium |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
