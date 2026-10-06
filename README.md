@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -751,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 ## Minimax
