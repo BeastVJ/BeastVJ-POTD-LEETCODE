@@ -8,44 +8,34 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-
-        // Dummy node to make result list creation easier
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
-
+        
+        ListNode* dummyHead = new ListNode(-1);
+        ListNode* curr = dummyHead;
+        ListNode* temp1 = l1;
+        ListNode* temp2 = l2;
         int carry = 0;
 
-        // Continue while either list has nodes OR carry remains
-        while (l1 != nullptr || l2 != nullptr || carry != 0) {
-
+        while(temp1 != NULL || temp2 != NULL){
             int sum = carry;
+            if(temp1) sum += temp1->val;
+            if(temp2) sum += temp2->val;
+            ListNode* newNode = new ListNode(sum % 10);
+            carry = sum /10;
 
-            // Add value from l1
-            if (l1 != nullptr) {
-                sum += l1->val;
-                l1 = l1->next;
-            }
-
-            // Add value from l2
-            if (l2 != nullptr) {
-                sum += l2->val;
-                l2 = l2->next;
-            }
-
-            // Calculate carry
-            carry = sum / 10;
-
-            // Put only the digit in the new node
-            curr->next = new ListNode(sum % 10);
-
+            curr->next = newNode;
             curr = curr->next;
+
+            if(temp1) temp1 = temp1->next;
+            if(temp2) temp2 = temp2->next;
         }
 
-        // Dummy node is not part of the answer
-        return dummy->next;
+        if(carry) {
+            ListNode* newNode = new ListNode(carry);
+            curr->next = newNode;
+        }
+        return dummyHead->next;
     }
 };
