@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0344-reverse-string/) | Easy |
