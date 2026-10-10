@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/0645-set-mismatch) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0796-rotate-string/) | Easy |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
