@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/BeastVJ/BeastVJ-POTD-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 ## Minimax
